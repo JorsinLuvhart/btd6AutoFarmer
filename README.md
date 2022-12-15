@@ -14,4 +14,8 @@ Resolution at 1680x1050 and not fullscreen;
 Monkey knowledge following this: https://www.youtube.com/watch?v=ht1jk5pn6Ac ;
 (Will add more if I remember any)
 
-The code is also really messy and I probably will split it into more files once I find the time, probably when I get less lazy during the next collection event.
+Things to do:
+
+Add an async code to catch level ups and auto advance
+
+Tidy the code and split it into different files to make it easier to edit
